@@ -1,0 +1,9 @@
+{
+  "plastico": {"rotulo": "Plástico", "nota": "Enjuagar y aplastar"},
+  "vidrio": {"rotulo": "Vidrio", "nota": "Sin tapas"},
+  "papel_carton": {"rotulo": "Papel y cartón", "nota": "Limpio y seco"},
+  "metal": {"rotulo": "Metal", "nota": "Enjuagar las latas"},
+  "organico": {"rotulo": "Orgánico", "nota": "Restos de comida y vegetales"},
+  "tetrapak": {"rotulo": "Tetra Pak", "nota": "Vaciar, enjuagar y aplastar"},
+  "no_reciclable": {"rotulo": "No reciclable", "nota": "Residuo general"}
+}

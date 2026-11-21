@@ -1,0 +1,14 @@
+﻿subclase,clase_final,rotulo_contenedor,nota
+pet,plastico,Plástico,Enjuagar y aplastar
+hdpe,plastico,Plástico,Enjuagar y aplastar
+plastico_otro,plastico,Plástico,Enjuagar y aplastar
+vidrio_botella,vidrio,Vidrio,Sin tapas
+vidrio_otro,vidrio,Vidrio,Sin tapas
+papel,papel_carton,Papel y cartón,Limpio y seco
+carton,papel_carton,Papel y cartón,Limpio y seco
+tetrapak,tetrapak,Tetra Pak,"Vaciar, enjuagar y aplastar"
+lata_aluminio,metal,Metal,Enjuagar las latas
+lata_acero,metal,Metal,Enjuagar las latas
+organico,organico,Orgánico,Restos de comida y vegetales
+icopor,no_reciclable,No reciclable,Residuo general
+no_reciclable_otro,no_reciclable,No reciclable,"Residuo general; incluye bolsas, film y envolturas"

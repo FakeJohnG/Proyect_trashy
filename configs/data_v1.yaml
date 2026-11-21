@@ -1,0 +1,9 @@
+# Clases finales con las que se entrena el modelo v1 (7).
+names:
+  0: plastico
+  1: vidrio
+  2: papel_carton
+  3: metal
+  4: organico
+  5: tetrapak
+  6: no_reciclable

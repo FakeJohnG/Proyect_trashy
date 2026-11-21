@@ -1,0 +1,18 @@
+# Subclases con las que se ANOTA en Roboflow (13).
+# OJO: los ids que cuentan son los del data.yaml que exporta Roboflow, que puede
+# ordenarlas distinto. Este archivo es la referencia de nombres; el script
+# agrupar_clases.py trabaja por NOMBRE, no por número.
+names:
+  0: pet
+  1: hdpe
+  2: plastico_otro
+  3: vidrio_botella
+  4: vidrio_otro
+  5: papel
+  6: carton
+  7: tetrapak
+  8: lata_aluminio
+  9: lata_acero
+  10: organico
+  11: icopor
+  12: no_reciclable_otro

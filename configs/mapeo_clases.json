@@ -1,0 +1,15 @@
+{
+  "pet": "plastico",
+  "hdpe": "plastico",
+  "plastico_otro": "plastico",
+  "vidrio_botella": "vidrio",
+  "vidrio_otro": "vidrio",
+  "papel": "papel_carton",
+  "carton": "papel_carton",
+  "tetrapak": "tetrapak",
+  "lata_aluminio": "metal",
+  "lata_acero": "metal",
+  "organico": "organico",
+  "icopor": "no_reciclable",
+  "no_reciclable_otro": "no_reciclable"
+}
