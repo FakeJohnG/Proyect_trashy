@@ -1,6 +1,6 @@
 # Proyect Trashy
 
-<img src="image.png" alt="Hey its me Trashy! Im in a github repo!" width="200" />
+<img src="image.png" title="Hey its me Trashy! Im in a github repo!" width="200" />
 
 Modelo de reconocimiento de residuos para reciclaje. Detecta el tipo de residuo en una imagen y la app le indica al usuario en qué contenedor va. El modelo está pensado como base para futuros proyectos de automatización de reciclaje.
 
