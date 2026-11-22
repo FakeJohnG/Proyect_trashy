@@ -11,7 +11,7 @@ import sys
 import cv2
 from ultralytics import YOLO
 
-RUTA_MODELO = sys.argv[1] if len(sys.argv) > 1 else "yolo11n.pt"
+RUTA_MODELO = "best.pt"
 CONFIANZA = 0.4   # solo se dibujan detecciones con al menos 40 % de seguridad
 TAMANO = 416      # más pequeño = más rápido en una laptop sin GPU (prueba 320, 416 o 640)
 
